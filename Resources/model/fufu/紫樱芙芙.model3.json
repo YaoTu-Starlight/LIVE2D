@@ -3,9 +3,9 @@
 	"FileReferences": {
 		"Moc": "紫樱芙芙.moc3",
 		"Textures": [
-			"紫樱芙芙.8192/texture_00.png",
-			"紫樱芙芙.8192/texture_01.png",
-			"紫樱芙芙.8192/texture_02.png"
+			"紫樱芙芙.8192/texture_00.webp",
+			"紫樱芙芙.8192/texture_01.webp",
+			"紫樱芙芙.8192/texture_02.webp"
 		],
 		"Physics": "紫樱芙芙.physics3.json",
 		"DisplayInfo": "紫樱芙芙.cdi3.json",
